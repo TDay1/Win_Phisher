@@ -1,9 +1,0 @@
-c:\users\30486\documents\visual studio 2017\Projects\Win Phisher\Win Phisher\bin\Debug\Win Phisher.exe.config
-c:\users\30486\documents\visual studio 2017\Projects\Win Phisher\Win Phisher\bin\Debug\Win Phisher.exe
-c:\users\30486\documents\visual studio 2017\Projects\Win Phisher\Win Phisher\bin\Debug\Win Phisher.pdb
-c:\users\30486\documents\visual studio 2017\Projects\Win Phisher\Win Phisher\obj\Debug\Win Phisher.csprojResolveAssemblyReference.cache
-c:\users\30486\documents\visual studio 2017\Projects\Win Phisher\Win Phisher\obj\Debug\Win_Phisher.Form1.resources
-c:\users\30486\documents\visual studio 2017\Projects\Win Phisher\Win Phisher\obj\Debug\Win_Phisher.Properties.Resources.resources
-c:\users\30486\documents\visual studio 2017\Projects\Win Phisher\Win Phisher\obj\Debug\Win Phisher.csproj.GenerateResource.Cache
-c:\users\30486\documents\visual studio 2017\Projects\Win Phisher\Win Phisher\obj\Debug\Win Phisher.exe
-c:\users\30486\documents\visual studio 2017\Projects\Win Phisher\Win Phisher\obj\Debug\Win Phisher.pdb
